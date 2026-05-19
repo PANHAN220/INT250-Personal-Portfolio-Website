@@ -1,0 +1,24 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  // ใช้ 'class' เพื่อให้ toggle dark mode ด้วย JavaScript ได้
+  darkMode: 'class',
+  content: [
+    './index.html',
+    './src/**/*.{vue,js}'
+  ],
+  theme: {
+    extend: {
+      fontFamily: {
+        // Font หลักสำหรับ body
+        sans: ['DM Sans', 'sans-serif'],
+        // Font สำหรับ heading
+        display: ['Syne', 'sans-serif']
+      },
+      colors: {
+        // สีหลักของเว็บ (เปลี่ยนได้ตามชอบ)
+        accent: '#6366f1'
+      }
+    }
+  },
+  plugins: []
+}
