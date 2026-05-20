@@ -45,35 +45,37 @@
   </section>
 </template>
 
+
 <script setup>
 const experiences = [
   {
     icon: '🎓',
     title: 'B.S. in Information Technology',
-    org: 'University of Technology',
-    period: '2023 - Present',
-    description: 'Focusing on Software Engineering, Web Development, and UX Design. Currently holding a 3.8 GPA.'
+    org: 'King Mongkut\'s University of Technology Thonburi (KMUTT)',
+    period: '2024 - Present',
+    description: 'Currently pursuing a degree in IT at the School of Information Technology (SIT), focusing on software development, UI/UX design, and modern web technologies.'
   },
   {
-    icon: '💼',
-    title: 'Frontend Developer Trainee',
-    org: 'Tech Startup Academy',
-    period: 'Jun 2025 - Aug 2025',
-    description: 'Participated in an intensive bootcamp, building several SPA projects using Vue.js and React. Collaborated with a team of 4 to deliver a final capstone project.'
+    icon: '💻',
+    title: 'Frontend Developer & Team Lead',
+    org: 'Open Source / Personal Projects',
+    period: '2024 - Present',
+    description: 'Building responsive and interactive web applications. Led a team for the Visual Memory Test project and developed various landing pages like Shortly and Fylo using Vue.js and Tailwind CSS.'
   },
   {
-    icon: '🏆',
-    title: '1st Place — Campus Hackathon',
-    org: 'University Tech Club',
-    period: 'Nov 2024',
-    description: 'Developed an accessibility-first student portal prototype within 48 hours. Led the frontend implementation using Tailwind CSS.'
+    icon: '👑',
+    title: 'President',
+    org: 'SIT Hello World',
+    period: '2026',
+    description: 'Directing a student-led initiative to mentor 100+ freshmen through project-based learning and workshops in web development, design, and infrastructure.'
   },
   {
     icon: '📜',
-    title: 'Meta Frontend Developer Certificate',
+    title: 'Learning How to Learn Certificate',
     org: 'Coursera',
-    period: 'Aug 2024',
-    description: 'Completed a professional certificate program covering React fundamentals, responsive design, and web accessibility best practices.'
+    period: '2024',
+    description: 'Completed a comprehensive course on cognitive learning strategies, memory techniques, and effective study habits to enhance technical learning.'
   }
 ]
 </script>
+

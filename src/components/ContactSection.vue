@@ -83,7 +83,7 @@
                 @click="submitForm"
                 class="w-full py-3.5 rounded-xl bg-gray-900 dark:bg-white text-white dark:text-gray-900 font-semibold text-sm flex items-center justify-center gap-2 hover:bg-gray-700 dark:hover:bg-gray-100 transition-colors"
               >
-                <span v-if="!sent">Send Message ✈</span>
+                <span v-if="!sent">Send Message</span>
                 <span v-else>Message Sent! ✓</span>
               </button>
 
