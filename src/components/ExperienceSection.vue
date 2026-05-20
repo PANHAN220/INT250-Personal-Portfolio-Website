@@ -28,7 +28,7 @@
             </div>
 
             <!-- Content -->
-            <div class="flex-1 pb-2">
+            <div class="flex-1 p-6 rounded-2xl border border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all duration-300">
               <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-2 mb-2">
                 <h3 class="font-bold text-gray-900 dark:text-white text-xl">{{ item.title }}</h3>
                 <span class="inline-flex items-center px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-500 dark:text-gray-400 text-xs font-medium flex-shrink-0">
@@ -36,7 +36,7 @@
                 </span>
               </div>
               <p class="text-blue-500 font-medium text-sm mb-3">{{ item.org }}</p>
-              <p class="text-gray-500 dark:text-gray-400 leading-relaxed">{{ item.description }}</p>
+              <p class="text-gray-500 dark:text-gray-400 leading-relaxed text-sm">{{ item.description }}</p>
             </div>
           </div>
         </div>

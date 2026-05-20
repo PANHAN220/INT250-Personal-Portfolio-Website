@@ -41,11 +41,11 @@
 const skillCategories = [
   {
     title: 'Languages',
-    skills: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3']
+    skills: ['JavaScript', 'Java', 'HTML5', 'CSS3', 'Python']
   },
   {
     title: 'Frameworks & Libraries',
-    skills: ['Vue.js', 'React', 'Tailwind CSS', 'Framer Motion', 'Node.js']
+    skills: ['Vue.js', 'Tailwind CSS', 'DaisyUi', 'Node.js']
   },
   {
     title: 'Tools & Platforms',

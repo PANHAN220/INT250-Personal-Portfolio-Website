@@ -12,14 +12,14 @@
       <div class="grid md:grid-cols-2 gap-16 items-start">
 
         <!-- Left: Bio text -->
-        <div class="space-y-6">
-          <p class="reveal delay-1 text-gray-600 dark:text-gray-400 text-lg leading-relaxed">
+        <div class="reveal delay-1 p-8 rounded-3xl border border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm space-y-6">
+          <p class="text-gray-600 dark:text-gray-400 text-lg leading-relaxed">
             Hello! I'm an enthusiastic IT student specializing in
             frontend web development. My journey into tech started
             with a curiosity about how websites are built, which
             quickly blossomed into a deep passion for coding and design.
           </p>
-          <p class="reveal delay-2 text-gray-600 dark:text-gray-400 text-lg leading-relaxed">
+          <p class="text-gray-600 dark:text-gray-400 text-lg leading-relaxed">
             I believe in the power of minimalism — not just in
             design, but in code structure. A well-organized codebase
             and a clean user interface go hand in hand to create

@@ -4,7 +4,7 @@
 
       <!-- Logo -->
       <a href="#hero" class="text-xl font-bold text-gray-900 dark:text-white tracking-tight">
-        Port<span class="text-blue-500">folio.</span>
+        Sakdichot<span class="text-blue-500">.</span>
       </a>
 
       <!-- Desktop Links -->
